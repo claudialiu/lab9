@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+
+<h1>Foreign Language Learning Tips</h1>
+<p></p>
+There is a lot of people learning a second language nowadays
+<p></p>
+<a href="https://www.babbel.com/en/magazine/10-tips-from-an-expert">language learning tips</a>
+<!-- do not display this at the moment -->
+<p></p>
+<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYn6tmc6EA_OEFRYvcBnVwxHsq5crZb0d9pU3g4njEvIfVhogDKw" title="language learning globally" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EVFMAdsOJOo" frameborder="0" allowfullscreen></iframe>
+</body>
+</html>
